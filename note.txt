@@ -1,11 +1,35 @@
+<li class="nav-item">
+                    <a href="index.html" class="nav-link fs-5  active">Home</a>
+                </li>
 
-    <div class="col-md-4 mb-4">
-        <div class="card bg-success rounded-pill">
-            <img src="donate4.jpg" class="card-img-top w-50 mx-auto rounded-pill" alt="donate-img">
-                <div class="card-body">
-                    <div class="card-title  text-white fs-4 text-center">Zakat ul Mal Donations</div>
-                   
-                    <a href="#" class="btn btn-primary justify-content-center">Donate</a>
-                </div>
-        </div>
-    </div>
+                <li class="nav-item">
+                    <a href="#section1" class="nav-link fs-5  active">Announcements</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#section2" class="nav-link fs-5  active">Al-Shifa<br>Clinic</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#section3" class="nav-link fs-5  ">Abukhadra<br>Masjid</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#section4" class="nav-link fs-5  ">Facilities<br>Rentals</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#section5" class="nav-link fs-5  ">Scholarships</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#section6" class="nav-link fs-5  ">Membership</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#section7" class="nav-link fs-5  ">Volunteer</a>
+                </li>
+
+                <li class="nav-item pb-0">
+                    <a href="#section8" class="nav-link fs-5  ">Weekend<br>School</a>
+                </li>
